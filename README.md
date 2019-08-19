@@ -1,3 +1,5 @@
+Tindev frontend app build with ReactJS during Rocketseat Omni Stack 8 week.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
