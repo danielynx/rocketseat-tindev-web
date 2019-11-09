@@ -1,4 +1,4 @@
-# Frontend Tindev Project
+# Web Tindev Project
 
 ReactJS project developed copying the instructor coding during the Rocketseat OmniStack week.
 
